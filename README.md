@@ -1,2 +1,2 @@
 # Forecasting-stock-prices-Apple-Amazon-Facebook-
-Forecasting Stock prices using time series models
+Forecasting Stock prices using linear regression and time series models (ARIMA)
